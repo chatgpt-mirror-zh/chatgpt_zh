@@ -7,7 +7,7 @@
 
 ## 国内ChatGPT中文版
 
-- [https://www.yixiaai.com/](https://www.yixiaai.com/) - 2023年3月国内第一批上线，一直稳定运行，支持 GPT4、4o 以及 o1，支持 MJ 绘画
+- [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
 - [https://chat.lify.vip/](https://chat.lify.vip/) - 运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4o，简单便捷~
